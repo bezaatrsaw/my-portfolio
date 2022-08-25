@@ -46,9 +46,13 @@ body{
 }
 .body{
     height: 1220px;
-    background-color:thistle;
+    /* background-color:thistle; */
     width: 100%;
   
+}
+img{
+    margin-top: 50px;
+    height: 100px;
 }
 .footer{
     width: 100%;
